@@ -1,0 +1,7 @@
+/// @title ERC4626
+/// @author Ahiara Ikechukwu Marvellous
+/// @notice An ERC$4626 token implementation in Huff
+/// @dev This is a simple ERC$4626 token implementation based on transmissions11 solmate implentation.
+
+
+
